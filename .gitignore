@@ -1,0 +1,4 @@
+venv/
+*.exe
+.env
+.mypy_cache/
